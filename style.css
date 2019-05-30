@@ -4,17 +4,32 @@
     padding: 0;
 }
 
-header {
+.header {
     background-color: #174389;
     padding-bottom: 40px;
     box-shadow: 1px 1px 1px 1px #5ad5e8;
 }
 
-h1 {
+.head {
     font-family: "Open Sans", sans-serif;
     font-size: 3rem;
     color: #ffffff;
     text-shadow: 1.5px 1.5px #5ad5e8;
     padding-top: 40px;
     padding-left: 35px;
+}
+
+.adopt {
+    font-family: "Open Sans", sans-serif;
+    font-size: 2rem;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.adoptInfo {
+    font-family: "Open Sans", sans-serif;
+    font-weight: light; 
+    font-size: 1rem;
+    padding-left: 35px;
+    padding-top: 20px;
 }
