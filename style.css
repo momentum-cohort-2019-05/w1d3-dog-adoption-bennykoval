@@ -3,3 +3,18 @@
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: #174389;
+    padding-bottom: 40px;
+    box-shadow: 1px 1px 1px 1px #5ad5e8;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 3rem;
+    color: #ffffff;
+    text-shadow: 1.5px 1.5px #5ad5e8;
+    padding-top: 40px;
+    padding-left: 35px;
+}
