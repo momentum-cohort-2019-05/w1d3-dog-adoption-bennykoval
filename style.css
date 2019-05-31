@@ -72,7 +72,7 @@
     margin: 1.66%;
 }
 
-li {
+.noStyle {
     list-style-type: none;
 }
 
@@ -83,6 +83,9 @@ li {
     width: 33.3%;
 }
 
-.overlay {
-    background-color: rgba(136, 176, 239, 0.7);
+/* .donate {
+    list-style-image: url("starter_files/images/donate.jpg");
+    text-align: center;
+    width: 33.3%;
+    height: 350px;
 }
