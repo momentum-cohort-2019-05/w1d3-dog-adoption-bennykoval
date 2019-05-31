@@ -16,20 +16,62 @@
     color: #ffffff;
     text-shadow: 1.5px 1.5px #5ad5e8;
     padding-top: 40px;
-    padding-left: 35px;
+    padding-left: 25px;
 }
 
 .adopt {
     font-family: "Open Sans", sans-serif;
     font-size: 2rem;
     padding-top: 20px;
-    padding-left: 35px;
+    padding-left: 25px;
 }
 
 .adoptInfo {
     font-family: "Open Sans", sans-serif;
     font-weight: light; 
     font-size: 1rem;
-    padding-left: 35px;
+    padding-left: 25px;
     padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.formContainer {
+    background-color: #d2d7d8;
+    margin-left: 20px;
+    width: 96.8%;
+    height: 230px;
+}
+
+.show {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.3rem;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.fieldset {
+    margin-left: 5px;
+    margin-right: 80px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    border: none;
+    box-shadow: none;
+    float: left;
+    padding: 3px 20px 20px 10px;
+}
+
+.legend {
+    font-weight: bold;
+}
+
+.dog {
+    float: left;
+    width: 30%;
+    margin: 1.66%;
+}
+
+li {
+    list-style-type: none;
 }
