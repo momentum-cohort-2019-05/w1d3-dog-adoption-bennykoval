@@ -75,3 +75,14 @@
 li {
     list-style-type: none;
 }
+
+.options {
+    padding-top: 10px;
+    float: left;
+    height: 350px;
+    width: 33.3%;
+}
+
+.overlay {
+    background-color: rgba(136, 176, 239, 0.7);
+}
