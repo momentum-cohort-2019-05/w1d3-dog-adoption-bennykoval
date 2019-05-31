@@ -92,21 +92,33 @@
     background: rgb(203, 151, 216, 0.6);
     padding-top: 143px;
     padding-bottom: 143px;
-    padding-left: 170px;
+    padding-left: 150px;
     padding-right: 170px;
 }
 
+/* .tint {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*/ 
 .overlay1 {
     position: relative;
     color: white;
     font-size: 2.5rem;
     font-family: "Oswald", sans-serif;
+    text-align: center;
 }
 
 #volunteer {
     position: absolute;
-    bottom: -1260px;
-    left: 550px;
+    bottom: -1425px;
+    left: 420px;
+    background: rgb(203, 151, 216, 0.6);
+    padding-top: 142px;
+    padding-bottom: 143px;
+    padding-left: 130px;
+    padding-right: 153px;
 }
 
 .overlay2 {
@@ -118,9 +130,13 @@
 
 #location {
     position: absolute;
-    bottom: -1260px;
-    left: 1000px;
+    bottom: -1425px;
+    left: 842px;
     background: rgb(203, 151, 216, 0.6);
+    padding-top: 141px;
+    padding-bottom: 143px;
+    padding-left: 136px;
+    padding-right: 163px;
 }
 
 .overlay3 {
