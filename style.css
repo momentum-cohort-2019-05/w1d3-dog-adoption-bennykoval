@@ -78,16 +78,22 @@
 }
 
 .options {
-    padding-top: 10px;
+    padding-top: 5px;
     float: left;
     height: 350px;
     width: 33.3%;
+    z-index: auto;
+    position: inherit;
 }
 
 #donate {
     position: absolute;
-    bottom: -1260px;
-    left: 170px;
+    bottom: -1425px;
+    background: rgb(203, 151, 216, 0.6);
+    padding-top: 143px;
+    padding-bottom: 143px;
+    padding-left: 170px;
+    padding-right: 170px;
 }
 
 .overlay1 {
@@ -114,6 +120,7 @@
     position: absolute;
     bottom: -1260px;
     left: 1000px;
+    background: rgb(203, 151, 216, 0.6);
 }
 
 .overlay3 {
@@ -123,9 +130,45 @@
     font-family: "Oswald", sans-serif;
 }
 
-/* .donate {
-    list-style-image: url("starter_files/images/donate.jpg");
-    text-align: center;
-    width: 33.3%;
-    height: 350px;
+/* .tint1 img {
+    position: initial;
+    z-index: 2;
+    background: rgb(203, 151, 216, 0.6);
 }
+
+.tint2 img {
+    background: rgb(203, 151, 216, 0.6);
+}
+
+
+.tint3 img {
+    background: rgb(203, 151, 216, 0.6);
+}
+
+/*
+.image-holder {
+    height: 200px;
+    width: 200px;
+    position:relative; 
+  }    
+  .image-holder:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,255,255, 0.5);
+    transition: all .3s linear;
+  }
+  .image-holder:hover:before { 
+    background: none;
+  }
+
+  */ 
+   /*background: rgb(203, 151, 216, 0.6);
+    padding-top: 143px;
+    padding-bottom: 143px;
+    padding-left: 170px;
+    padding-right: 170px; */
