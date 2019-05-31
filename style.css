@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    list-style-type: none;
 }
 
 .header {
@@ -81,6 +82,45 @@
     float: left;
     height: 350px;
     width: 33.3%;
+}
+
+#donate {
+    position: absolute;
+    bottom: -1260px;
+    left: 170px;
+}
+
+.overlay1 {
+    position: relative;
+    color: white;
+    font-size: 2.5rem;
+    font-family: "Oswald", sans-serif;
+}
+
+#volunteer {
+    position: absolute;
+    bottom: -1260px;
+    left: 550px;
+}
+
+.overlay2 {
+    position: relative;
+    color: white;
+    font-size: 2.5rem;
+    font-family: "Oswald", sans-serif;
+}
+
+#location {
+    position: absolute;
+    bottom: -1260px;
+    left: 1000px;
+}
+
+.overlay3 {
+    position: relative;
+    color: white;
+    font-size: 2.5rem;
+    font-family: "Oswald", sans-serif;
 }
 
 /* .donate {
